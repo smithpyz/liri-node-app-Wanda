@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/smithpyz/liri-node-app/issues"
   },
-  "homepage": "https://github.com/smithpyz/liri-node-app#readme"
+  "homepage": "https://github.com/smithpyz/liri-node-app#readme",
+  "keywords": []
 }
