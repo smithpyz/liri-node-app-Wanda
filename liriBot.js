@@ -22,7 +22,7 @@ var commands = [
 
 function usageMsg() {
   console.log("");
-  console.log("Usage: node liri-bot.js Request [request parameter]'");
+  console.log("Usage: node liriBot.js Request [request parameter]'");
   console.log("Valid requests:");
   for (let index = 0; index < commands.length; index++) {
     const element = commands[index];
