@@ -1,27 +1,25 @@
 {
-  "name": "liri-node-app",
+  "name": "liri-node-app-wanda",
   "version": "1.0.0",
   "description": "",
   "main": "keys.js",
-  "dependencies": {
-    "dotenv": "^6.0.0",
-    "node-spotify-api": "^1.0.7",
-    "request": "^2.87.0",
-    "twitter": "^1.7.1"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smithpyz/liri-node-app.git"
+    "url": "git+https://github.com/smithpyz/liri-node-app-Wanda.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smithpyz/liri-node-app/issues"
+    "url": "https://github.com/smithpyz/liri-node-app-Wanda/issues"
   },
-  "homepage": "https://github.com/smithpyz/liri-node-app#readme",
-  "keywords": []
+  "homepage": "https://github.com/smithpyz/liri-node-app-Wanda#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  }
 }
